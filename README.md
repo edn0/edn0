@@ -1,6 +1,6 @@
 🇬🇧
 - 👋 Hi, I’m @edn0
-- 👀 I’m interested in programming, a designing a GUI.
+- 👀 I’m interested in programming, a designing GUIs.
 - 🌱 I’m currently learning Python.
 
 
