@@ -1,10 +1,10 @@
 🇬🇧
 - 👋 Hi, I’m @edn0
-- 👀 I’m interested in programming, and designing GUIs.
-- 🌱 I’m currently learning Web Developement.
+- 👀 I’m interested in Web Developement, and designing GUIs.
+- 🌱 I’m currently learning HTML5/CSS3 and JavaScript frameworks.
 
 
 🇫🇷
 - 👋 Bonjour, je suis @edn0
-- 👀 Ce qui m'intéresse ce moment, c'est la programmation et la création d'interface graphiques. 
-- 🌱 En ce moment, j'apprends le développement web.
+- 👀 Ce qui m'intéresse ce moment, c'est le Développement Web Front-End et la création d'interface graphiques. 
+- 🌱 En ce moment, j'apprends le HTML5/CSS3 and les frameworks JavaScripts.
